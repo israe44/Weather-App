@@ -50,7 +50,7 @@ h1 {
 }
 #weather-search {
     display: flex;
-    width: 50%;
+    width: 55%;
 }
 #weather-data {
     background-color: rgb(232, 206, 225);
@@ -59,10 +59,10 @@ h1 {
     margin-top: 20px;
     text-align: center;
     align-items: center;
-    gap: 12px;
+    gap: 13px;
 }
 
 #weather-data > img {
-    border-radius : 50%;
+    border-radius : 60%;
     background-color : rgb(237, 237, 209);
 }
