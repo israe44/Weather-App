@@ -1,0 +1,35 @@
+# Weather App
+A simple web app that lets you check the current weather of any city in Morocco.
+
+## what it does 
+
+  - search for a city name
+  - get real-time weather information
+  - Shows:
+    - temperature
+    - weather description
+    - weather icon
+
+All data comes from the OpenWeather API.
+
+
+## how to use it 
+  - open the app in Browser
+  - type a city name ( Casablanca, Khouribga, Rabat..)
+  - click on search button
+  - see the current weather instantly
+
+## technologies i used
+  - HTML
+  - CSS 
+  - JavaScript
+  - OpenWeather API
+
+## NOTES
+ - The app is currently focused on cities in Morocco 
+ - Make sure you have Internet to fetch weather data
+ - Enter your own OpenWeather API key
+
+---
+
+Made with curiosity and learning in mind :D
