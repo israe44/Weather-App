@@ -52,3 +52,17 @@ h1 {
     display: flex;
     width: 50%;
 }
+#weather-data {
+    background-color: rgb(232, 206, 225);
+    border-radius: 5px;
+    padding: 1.5em;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    gap: 12px;
+}
+
+#weather-data > img {
+    border-radius : 50%;
+    background-color : rgb(237, 237, 209);
+}
